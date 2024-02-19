@@ -1,0 +1,21 @@
+C:\Users\d_wick\Documents\Class Materials\cis115\moveestimator\moveestimator\bin\Debug\moveestimator.exe.config
+C:\Users\d_wick\Documents\Class Materials\cis115\moveestimator\moveestimator\bin\Debug\moveestimator.exe
+C:\Users\d_wick\Documents\Class Materials\cis115\moveestimator\moveestimator\bin\Debug\moveestimator.pdb
+C:\Users\d_wick\Documents\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.csprojAssemblyReference.cache
+C:\Users\d_wick\Documents\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.Form1.resources
+C:\Users\d_wick\Documents\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.Properties.Resources.resources
+C:\Users\d_wick\Documents\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.csproj.GenerateResource.cache
+C:\Users\d_wick\Documents\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.csproj.CoreCompileInputs.cache
+C:\Users\d_wick\Documents\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.exe
+C:\Users\d_wick\Documents\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.pdb
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\moveestimator\moveestimator\bin\Debug\moveestimator.exe.config
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\moveestimator\moveestimator\bin\Debug\moveestimator.exe
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\moveestimator\moveestimator\bin\Debug\moveestimator.pdb
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.csproj.AssemblyReference.cache
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.csproj.SuggestedBindingRedirects.cache
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.Form1.resources
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.Properties.Resources.resources
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.csproj.GenerateResource.cache
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.csproj.CoreCompileInputs.cache
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.exe
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\moveestimator\moveestimator\obj\Debug\moveestimator.pdb
