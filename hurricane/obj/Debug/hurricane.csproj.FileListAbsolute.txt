@@ -1,0 +1,11 @@
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\hurricane\bin\Debug\hurricane.exe.config
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\hurricane\bin\Debug\hurricane.exe
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\hurricane\bin\Debug\hurricane.pdb
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\hurricane\obj\Debug\hurricane.csproj.AssemblyReference.cache
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\hurricane\obj\Debug\hurricane.csproj.SuggestedBindingRedirects.cache
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\hurricane\obj\Debug\hurricane.Form1.resources
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\hurricane\obj\Debug\hurricane.Properties.Resources.resources
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\hurricane\obj\Debug\hurricane.csproj.GenerateResource.cache
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\hurricane\obj\Debug\hurricane.csproj.CoreCompileInputs.cache
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\hurricane\obj\Debug\hurricane.exe
+C:\Users\d_wick\Documents\Class Materials\Class Materials\cis115\hurricane\obj\Debug\hurricane.pdb
